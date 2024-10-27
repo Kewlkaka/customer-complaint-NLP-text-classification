@@ -2,13 +2,17 @@
 
 This project involves building and fine-tuning machine learning models to classify consumer complaints into specific product categories. This project was undertaken using various natural language processing (NLP) and machine learning techniques, ultimately achieving a classification accuracy of 83.49% after hyperparameter tuning.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Project Overview
 
 The purpose of this project is to classify consumer complaints into appropriate product categories using text classification models. By automating this task, customer support and management teams can gain insights into common complaints, prioritize issues, and streamline responses. The dataset used in this project is sourced from Consumer Financial Protection Bureau.
 
-# Dataset
+# Dataset Utilized
 
 The dataset contains consumer complaint narratives and the respective product categories they relate to. Some examples of product categories include "Credit card," "Mortgage," "Debt collection," and "Student loan." Preprocessing steps were applied to ensure data consistency and balance.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Achievements
 
